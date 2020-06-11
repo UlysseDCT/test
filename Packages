@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.UlysseDCT.test
+Version: 1.0.0-1
+Section: Theme
+Maintainer: UlysseDCT <Ulysse@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.UlysseDCT.test_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: ed4766f0244d3da1b77332640bbac1bb
+Description: This is a sample old packaygsygygge. Firmware should be lower than 13.0
+Name: test
+Author: UlysseDCT <Ulysse@gmail.com>
+Depiction: https://UlysseDCT.github.io/test/depictions/?p=com.UlysseDCT.test
+
