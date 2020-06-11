@@ -32,7 +32,7 @@ Section: Theme
 Maintainer: UlysseDCT <Ulysse@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.UlysseDCT.test_1.0.0-1_iphoneos-arm.deb
+Filename: ./debs/com.UlysseDCT.test.deb
 Size: 860
 MD5sum: ed4766f0244d3da1b77332640bbac1bb
 Description: This is a sample old packaygsygygge. Firmware should be lower than 13.0
